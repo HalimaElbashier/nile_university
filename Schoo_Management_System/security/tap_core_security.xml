@@ -1,0 +1,18 @@
+<odoo>
+    <data>
+        <!-- record id="module_category_platform" model="ir.module.category">
+            <field name="name">Platform</field>
+            <field name="sequence">10</field>
+        </record-->
+
+        <!-- Requester Group
+        <record id="group_requester" model="res.groups">
+            <field name="name">Requester Group</field>
+            <field name="category_id" ref="module_category_platform"/>
+            <field name="implied_ids" eval="[(4, ref('base.group_user'))]"/>
+        </record>
+-->
+
+
+    </data>
+</odoo>
